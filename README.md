@@ -1,6 +1,7 @@
 # PatchFR-EDF5
-Traduction française pour le jeu Earth Defense Force 5
+##Traduction française pour le jeu Earth Defense Force 5
 
+###Important
 La traduction peut contenir des erreurs. Informez-moi et je corrigerai ces erreurs.
 </br>
 </br>
